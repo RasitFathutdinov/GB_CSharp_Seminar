@@ -1,0 +1,15 @@
+D:\GeekBrain\05_C#\Projects\Repo_Sem\Sem_03\home_work\obj\Debug\net6.0\home_work.csproj.AssemblyReference.cache
+D:\GeekBrain\05_C#\Projects\Repo_Sem\Sem_03\home_work\obj\Debug\net6.0\home_work.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrain\05_C#\Projects\Repo_Sem\Sem_03\home_work\obj\Debug\net6.0\home_work.AssemblyInfoInputs.cache
+D:\GeekBrain\05_C#\Projects\Repo_Sem\Sem_03\home_work\obj\Debug\net6.0\home_work.AssemblyInfo.cs
+D:\GeekBrain\05_C#\Projects\Repo_Sem\Sem_03\home_work\obj\Debug\net6.0\home_work.csproj.CoreCompileInputs.cache
+D:\GeekBrain\05_C#\Projects\Repo_Sem\Sem_03\home_work\bin\Debug\net6.0\home_work.exe
+D:\GeekBrain\05_C#\Projects\Repo_Sem\Sem_03\home_work\bin\Debug\net6.0\home_work.deps.json
+D:\GeekBrain\05_C#\Projects\Repo_Sem\Sem_03\home_work\bin\Debug\net6.0\home_work.runtimeconfig.json
+D:\GeekBrain\05_C#\Projects\Repo_Sem\Sem_03\home_work\bin\Debug\net6.0\home_work.dll
+D:\GeekBrain\05_C#\Projects\Repo_Sem\Sem_03\home_work\bin\Debug\net6.0\home_work.pdb
+D:\GeekBrain\05_C#\Projects\Repo_Sem\Sem_03\home_work\obj\Debug\net6.0\home_work.dll
+D:\GeekBrain\05_C#\Projects\Repo_Sem\Sem_03\home_work\obj\Debug\net6.0\refint\home_work.dll
+D:\GeekBrain\05_C#\Projects\Repo_Sem\Sem_03\home_work\obj\Debug\net6.0\home_work.pdb
+D:\GeekBrain\05_C#\Projects\Repo_Sem\Sem_03\home_work\obj\Debug\net6.0\home_work.genruntimeconfig.cache
+D:\GeekBrain\05_C#\Projects\Repo_Sem\Sem_03\home_work\obj\Debug\net6.0\ref\home_work.dll
