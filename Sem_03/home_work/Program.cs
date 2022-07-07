@@ -165,6 +165,5 @@
         }
          //вывод результата рассчёта
         Console.WriteLine("{0}\n", degree3(numnber)); 
-        
     }
 
