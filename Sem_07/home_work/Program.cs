@@ -5,10 +5,10 @@
 // 1 -3,3 8 -9,9
 // 8 7,8 -7,1 9
     // /*****************  ОБЪЯВЛЕНИЕ МЕТОДОВ  ***********************/
-    // /* Метод для создания массива размера size из случайных чисел из диапазона [start;end] */
+    // /* Метод для создания массива размера m х n из случайных чисел из диапазона [start;end] */
     // double[,] GenerateRandomMatrix(int countRows, int countColumns, int start, int end)  
     // {
-    //     double[,] result = new double[countRows, countColumns];  // объявляем массив размера mхn, т.е. выделение памяти для mхn переменных
+    //     double[,] result = new double[countRows, countColumns];  // объявляем массив размера m х n, т.е. выделение памяти для m х n переменных
     //     for (uint i = 0; i < countRows; i++)           
     //         for (uint j = 0; j < countColumns; j++)                         // Генерируем число из диапазона [start;end] 
     //            result[i,j] = new Random().NextDouble()*(end-start) + start; // c масштабирванием и записываем его в [i,j]-й элемент массива                                                                                                                        
